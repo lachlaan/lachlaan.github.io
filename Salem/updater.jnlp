@@ -19,7 +19,7 @@
     <jar href="updater.jar" />
     <property name="haven.defserv" value="http://game.salemthegame.com" />
     <property name="haven.resurl" value="http://game.salemthegame.com/res/" />
-    <property name="haven.storeurl" value="http://game.salemthegame.com/portal/tostore" />
+    <property name="haven.storeurl" value="http://login.salemthegame.com/portal/tostore" />
   </resources>
   <application-desc />
 </jnlp>
