@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<jnlp spec="1.0+" codebase="http://DonnEssime.github.io/Salem" href="updater.jnlp">
+<jnlp spec="1.0+" codebase="http://DonnEssime.github.io/EnderSalem" href="updater.jnlp">
   <information>
     <title>Custom Salem Updater</title>
     <vendor>Latikai</vendor>
